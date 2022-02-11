@@ -2,6 +2,16 @@
 - 门户项目
 - 个人中心
   
+### 技术栈
+- Java
+- Springboot
+- Mybatis
+- Swagger2
+
+- Tomcat
+- Maven
+- Mysql
+
 ### java构建工具
 #### maven
 #### gradle
@@ -24,6 +34,10 @@
 ### 自定义封装返回结果
 ### 解决跨域问题
 ### 日志打印组件log4j vs logback
+
+
+### mariaDB 
+
 
 
 购物车没有登录使用的cookie缓存
