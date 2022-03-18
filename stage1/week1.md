@@ -51,6 +51,34 @@
 ### 本地安装pdman
 
 
+list:
+
+- maven,git
+- SSM Spring cloud spring boot 
+- mybatis,mysql,mycat
+- tomcat 
+
+- redis 
+- rocketMQ 
+- kafaka
+- sentinel
+- skyWalking
+- netty
+- nginx
+- Arthas
+
+- MogoDB,Zookeeper
+- shiro
+- spring security OAuth2.0
+
+
+
+
+
+
+
+
+
 
 
 
