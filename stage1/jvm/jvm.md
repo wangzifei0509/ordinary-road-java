@@ -17,6 +17,12 @@ https://docs.oracle.com/en/java/javase/11/index.html
 
 
 
+
+双亲委派模型：
+优点：增加了类的层次结构、避免类重复加载、安全性
+具体为Bootstrap classLoader -> Extension ClassLoader-> Application ClassLoader -> custom ClassLoader 每个层级负责特定包内下的类加载，各司其职。
+
+
 2. 线上问题排查
 - 内存溢出
     - 堆内存
