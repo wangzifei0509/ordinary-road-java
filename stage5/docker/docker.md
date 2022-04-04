@@ -1,5 +1,5 @@
 [docker入门教程](https://www.bilibili.com/video/BV1CJ411T7BK)
-CentOS6上运行docker服务
+CentOS上运行docker服务
 ## 安装docker&设置国内代理
 ## docker image 相关命令
 - docker images //列出所有镜像

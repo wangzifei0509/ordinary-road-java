@@ -1,3 +1,4 @@
+[k8s从入门到精通](https://www.bilibili.com/video/BV1cK4y1L7Am)
 # K8S入门
 k8s使用go语言编写
 ### kubectl命令
