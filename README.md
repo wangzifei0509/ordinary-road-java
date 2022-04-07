@@ -16,18 +16,19 @@
 - SSM基础和进阶（单体应用|微服务）
 - Mysql基础和进阶（分库分表|读写分离）
 - Redis基础和进阶
-- Nginx
+- Nginx、git、Maven 
 ## Stage 3 分布式
-- Zookeeper基础
 - ES基础和进阶
 - RocketMQ、Kafaka
 - Tomcat、Netty、GRPC 
-- Sentinel 、SkyWalking
+- Sentinel、SkyWalking
 ## Stage 4 Devops和云原生
-- Go、Gin Gorm
-- Docker | K8S
-- Git | Maven 
-- Java Agent增强 | idea插件
+- Go、Gin、Gorm
+- Docker| K8S| argo rollout |argo workflow| Tekton
+- Service Mesh|Istio|Envoy|基于Istio 的高级流量管理
+- 云原生思维|devops|CICD|微服务|可观测性|可诊断性|不可不变基础设施
+- 基于微信小程序的发布管理平台
+- IDEA定制代码扫描规则插件
 ## Stage 5 不断更新
 - 高并发 |分布式 |高可用 |微服务
 - 常用组件源码分析

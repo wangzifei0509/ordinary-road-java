@@ -8,3 +8,44 @@
 ### 组合、继承、静态内部类、静态方法、final等的特点和适用场景
 ### 反射是否可以使用反射枚举类，破坏单例
 
+
+
+java
+- JVM
+- JUC
+ - wait和sleep方法的区别
+ - Synchronized
+ - ReentrantLock
+ - Semaphore
+ - ReadWriteLock
+ - volatile
+ - 如何在两个线程之间共享数据
+ - CAS、AQS
+- collection
+ - List
+ - Set
+ - Map
+- 反射、注解、泛型
+spring
+- IOC
+- AOP
+- spring boot 
+- tomcat 
+Mybatis
+Redis
+Mysql
+--- 
+Kafaka
+RocketMQ
+---
+Netty
+RPC  
+---
+docker
+k8s
+--- 
+
+
+
+
+
