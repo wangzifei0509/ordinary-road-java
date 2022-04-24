@@ -33,7 +33,7 @@
 #### oauth2
 ### 自定义封装返回结果
 ### 解决跨域问题
-### 日志打印组件log4j vs logback
+### 日志打印组件logback
 
 
 ### mariaDB 
@@ -43,33 +43,13 @@
 购物车没有登录使用的cookie缓存
 登录后使用的redis缓存
 
-使用定时任务关闭未支付的订单，针对单体应用，小型项目，管理项目可以。但是对于大型项目是不适用的，需要使用`延迟队列`来实现
+使用定时任务关闭未支付的订单，针对单体应用，小型项目，管理项目可以。
+但是对于大型项目是不适用的，需要使用`延迟队列`来实现。
 
 待办
 ### 本地电脑安装mysql
 ### 对比后端代码配置和使用ingress解决跨域问题的优劣势
 ### 本地安装pdman
-
-
-list:
-
-- maven,git
-- SSM Spring cloud spring boot 
-- mybatis,mysql,mycat
-- tomcat 
-
-- redis 
-- rocketMQ 
-- kafaka
-- sentinel
-- skyWalking
-- netty
-- nginx
-- Arthas
-
-- MogoDB,Zookeeper
-- shiro
-- spring security OAuth2.0
 
 
 
