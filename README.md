@@ -12,28 +12,54 @@
 - 数据结构（链表，数组，树，图）
 - 算法（动态规划，贪心算法）
 ## Stage 2 Java
-- Java进阶（JUC&JVM）
+- Java进阶（JUC&JVM&JC）
 - SSM基础和进阶（单体应用|微服务）
 - Mysql基础和进阶（分库分表|读写分离）
 - Redis基础和进阶
-- Nginx、git、Maven 
 ## Stage 3 分布式
-- ES基础和进阶
 - RocketMQ、Kafaka
-- Tomcat、Netty、GRPC 
-- Sentinel、SkyWalking
+- Netty、GRPC 
+- Sentinel 
+- 高并发、高可用、大数量处理
 ## Stage 4 Devops和云原生
 - Go、Gin、Gorm
-- Docker| K8S| argo rollout |argo workflow| Tekton
-- Service Mesh|Istio|Envoy|基于Istio 的高级流量管理
+- Docker| K8S operator go
+- argo rollout |argo workflow go 
+- Istio go
+- Envoy C++
+- Prometheus go
+- SkyWalking java
+- Grafana ts&go
+- kafka、TiDB、配置、etcd|Sentinel|Skywalking|JAEGER|Prometheus|fluentd
+
+
+
+
+
+
+
+
 - 云原生思维|devops|CICD|微服务|可观测性|可诊断性|不可不变基础设施
 - 基于微信小程序的发布管理平台
 - IDEA定制代码扫描规则插件
 ## Stage 5 不断更新
-- 高并发 |分布式 |高可用 |微服务
 - 常用组件源码分析
 - 思考和实践经验
 - 学习方法
+
+Devops平台
+- 基础计算资源管理：vm、k8s
+    - 批量、定时执行一些脚本
+- 应用管理
+    - 构建、发布
+    - 配置中心
+    - 监控中心
+    - 报警中心
+    - 日志中心
+
+可扩展、云原生、开箱即用，插件也是配置一下即可使用。
+IDEA插件根据数据库初始化一个SSM项目，或者新增一个数据库，添加前后端代码。
+
 
 
 
