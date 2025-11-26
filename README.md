@@ -28,7 +28,7 @@
 ## Stage 4 Devops和云原生
 - ~~【了解会用】Go、Gin ~~
 - 【深入理解】Docker、K8S
-## stage 5 Java架构师
+## Stage 5 Java架构师
 - Go、Gin、Gorm
 - Docker| K8S operator go
 - argo rollout |argo workflow go 
@@ -41,20 +41,7 @@
 - 云原生思维|devops|CICD|微服务|可观测性|可诊断性|不可不变基础设施
 - 基于微信小程序的发布管理平台
 - IDEA定制代码扫描规则插件
-## Stage 6 不断更新
-- 常用组件源码分析
-- 思考和实践经验
-- 学习方法
-
-Devops平台
-- 基础计算资源管理：vm、k8s
-    - 批量、定时执行一些脚本
-- 应用管理
-    - 构建、发布
-    - 配置中心
-    - 监控中心
-    - 报警中心
-    - 日志中心
-
+## Stage 6 质量和性能开发
+## Stage 7 AI
 
 
