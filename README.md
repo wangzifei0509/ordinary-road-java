@@ -44,4 +44,7 @@
 ## Stage 6 质量和性能开发
 ## Stage 7 AI
 
+## 学习笔记：https://www.yuque.com/wangxiamei/nf4oq7/tf0ucqpz1r1dkcwf
+本仓库存储对应的代码
+
 
