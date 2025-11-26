@@ -1,4 +1,7 @@
-# java架构师-技术专家 学习笔记
+## 学习笔记：https://www.yuque.com/wangxiamei/nf4oq7/tf0ucqpz1r1dkcwf
+本仓库存储对应的代码
+
+# java架构师-技术专家
 项目架构演进：
 - 单体，前后端在一起部署在vm上
 - 集群，前后端分离，一个项目部署多个实例在一个vm上
@@ -44,7 +47,6 @@
 ## Stage 6 质量和性能开发
 ## Stage 7 AI
 
-## 学习笔记：https://www.yuque.com/wangxiamei/nf4oq7/tf0ucqpz1r1dkcwf
-本仓库存储对应的代码
+
 
 
